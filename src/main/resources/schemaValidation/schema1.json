@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": ["amt"],
+  "properties": {
+    "amt": {
+      "type": "integer"
+    }
+  }
+}
